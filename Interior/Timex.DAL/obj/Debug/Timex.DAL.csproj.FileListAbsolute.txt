@@ -1,0 +1,12 @@
+D:\Amit\Projects\Interior\Code\bin\Timex.DAL.dll
+D:\Amit\Projects\Interior\Code\bin\Timex.DAL.pdb
+D:\Amit\Projects\Interior\Timex.DAL\obj\Debug\Timex.DAL.csproj.CoreCompileInputs.cache
+D:\Amit\Projects\Interior\Timex.DAL\obj\Debug\Timex.DAL.dll
+D:\Amit\Projects\Interior\Timex.DAL\obj\Debug\Timex.DAL.pdb
+D:\Amit\Projects\Interior\Timex.DAL\obj\Debug\Timex.DAL.csprojAssemblyReference.cache
+D:\Project\Interior\Code\bin\Timex.DAL.dll
+D:\Project\Interior\Code\bin\Timex.DAL.pdb
+D:\Project\Interior\Timex.DAL\obj\Debug\Timex.DAL.csprojAssemblyReference.cache
+D:\Project\Interior\Timex.DAL\obj\Debug\Timex.DAL.csproj.CoreCompileInputs.cache
+D:\Project\Interior\Timex.DAL\obj\Debug\Timex.DAL.dll
+D:\Project\Interior\Timex.DAL\obj\Debug\Timex.DAL.pdb

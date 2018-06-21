@@ -1,0 +1,6 @@
+D:\Project\Interior\Code\bin\Timex.Shared.dll
+D:\Project\Interior\Code\bin\Timex.Shared.pdb
+D:\Project\Interior\Timex.Shared\obj\Debug\Timex.Shared.csproj.CoreCompileInputs.cache
+D:\Project\Interior\Timex.Shared\obj\Debug\Timex.Shared.dll
+D:\Project\Interior\Timex.Shared\obj\Debug\Timex.Shared.pdb
+D:\Project\Interior\Timex.Shared\obj\Debug\Timex.Shared.csprojAssemblyReference.cache

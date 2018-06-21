@@ -1,0 +1,114 @@
+﻿body, div, p
+{
+	margin:0;
+	padding:0;
+	border:none;
+}
+
+/*Modal Popup*/
+.modalBackground 
+{
+	background-color:gray;
+	filter:alpha(opacity=70);
+	opacity:0.7;
+}
+
+.modalPopupHeader 
+{
+	background-color:#27587c;
+	color:#ffffff;
+	height:20px;
+	font-family:Trebuchet MS;
+	text-transform:capitalize;
+	vertical-align:middle;
+	padding-left:7px;
+	
+}
+.modalPopup 
+{
+	background-color:#ffffff;
+	border-width:3px;
+	border-style:solid;
+	border-color:Gray;
+	padding:3px;
+	width:250px;
+}
+
+.sampleStyleA 
+{
+	background-color:#FFF;
+}
+
+.sampleStyleB 
+{
+	background-color:#FFF;
+	font-family:monospace;
+	font-size:10pt;
+	font-weight:bold;
+}
+
+.sampleStyleC 
+{
+	background-color:#ddffdd;
+	font-family:sans-serif;
+	font-size:10pt;
+	font-style:italic;
+}
+
+.sampleStyleD 
+{
+	background-color:Blue;
+	color:White;
+	font-family:Arial;
+	font-size:10pt;
+}
+
+.tdHead
+{
+	background-color:#b8c9b9;
+	color:#336633;
+	font-size:13px;
+	font-family: Arial;
+	
+}
+
+.tdfordetail
+{
+	width: 20%;
+	height:30px;
+}
+
+
+
+.labelHead
+{
+ color:#ffffff;
+ font-weight:bold;  
+ font-size:12px;
+ font-family: Arial;
+}
+
+.labelStatus
+{
+ color:#ff4500;
+ font-weight:bold;  
+ font-size:12px;
+ font-family: Arial;
+ text-decoration:underline;  
+}
+
+.labelDeatail
+{
+ color:#000000;
+ font-size:12px;
+ font-family:Arial;
+ text-align:left;
+}
+
+.hideLnk
+{
+display:none;
+font-size:12px;
+font-family: Arial;
+color:#00008b;
+}
